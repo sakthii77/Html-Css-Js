@@ -1,0 +1,134 @@
+h1{
+  
+    color: darkred;
+    
+}
+h3{
+
+    color:darkgoldenrod
+}
+p{
+   line-height: 1.6em;
+
+}
+
+
+.p1{
+
+    background-color: darkkhaki;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+   
+ 
+}
+ 
+ a{
+     text-decoration-line: none;
+     
+  }
+
+.s1{
+
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+    position: relative;
+    background-color: tan;
+    border-radius: 10px;
+
+}
+.s1 li {
+
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+ 
+
+.s2 {
+
+     padding-bottom: 5px;
+     padding-top: 5px;
+}
+
+.p2 {
+   
+   background-color:darkkhaki;
+}
+h1::first-letter{
+    font-size: 200px;
+    text-decoration-line: underline;
+   font-stretch: extra-expanded;
+}
+.t1{
+    background-color: red;
+
+}
+span.sp {
+    display: block;
+    width: 200px;
+    height: 100px;
+    padding: 5px;  
+    background-color: yellow; 
+    padding-bottom: 10px;
+    
+  }
+  h3{
+      text-decoration: underline;
+  }
+
+  th{
+
+        background-color: darksalmon;
+  }
+
+.im{
+
+    padding-top: 30px;
+    background-image: url("sakthi.jpeg");
+    background-position: center right;
+    min-height :400px;
+    margin-bottom: 30px;
+    text-align: center;
+    color:orange;
+    
+}
+
+h2{
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-line: underline;
+}
+
+#container{
+
+    height: 30px;
+    padding-top: 9px;
+    padding-left: 16px;
+    background-color: orange;
+    text-align: right;
+    padding-right: 10px;
+  
+}
+    
+   
+
+
+#container a{
+    font-size: 20px;
+    color: black;
+}
+#container a:hover{
+    color: red;
+}
+#container a:active{
+    color: green;
+}
+       
+a:hover{
+    color:red;
+}
+a:active{
+    color: green;
+}
+
